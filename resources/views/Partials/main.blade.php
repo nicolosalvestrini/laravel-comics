@@ -2,7 +2,7 @@
     $comics = config('comics');
 @endphp
 
-<main class="bg-dark">
+<div class="bg-dark">
 
     <div class="container py-5">
 
@@ -22,4 +22,6 @@
 
     </div>
 
-</main>
+</div>
+
+@include('components.blue-banner')
