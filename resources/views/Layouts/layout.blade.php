@@ -8,7 +8,7 @@
 </head>
 <body>
     @include('partials.header')
-    <div class="container">
+    <div class="bg-dark">
         @yield('content')   
     </div>
     
