@@ -6,7 +6,7 @@ use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class blue-banner extends Component
+class BlueBanner extends Component
 {
     /**
      * Create a new component instance.

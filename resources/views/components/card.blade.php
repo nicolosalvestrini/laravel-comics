@@ -1,3 +1,5 @@
+@props(['comic'])
+
 <div class="col-2 m-2">
     <img
         src="{{ $comic['thumb'] }}"
