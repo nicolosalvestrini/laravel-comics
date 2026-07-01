@@ -2,4 +2,6 @@
 
 @section('content')
     <x-hero-section></x-hero-section>
+
+    @include('partials.main')
 @endsection
